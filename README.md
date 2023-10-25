@@ -20,7 +20,7 @@ It implements a backend interface, or console, to manage program data. Console c
 | 9. More Classes | [/models/user.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/user.py) [/models/place.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/place.py) [/models/city.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/city.py) [/models/amenity.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/amenity.py) [/models/state.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/state.py) [/models/review.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/review.py) | Dynamically implements more classes |
 | 10. Console 1.0 | [console.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/console.py) [/models/engine/file_storage.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/engine/file_storage.py) | Update the console and file storage system to work dynamically with all  classes update file storage |
 <br>
-<br>
+
 <center> <h2>Usage</h2> </center>
 
 1. First clone the repository.
@@ -48,7 +48,6 @@ It implements a backend interface, or console, to manage program data. Console c
 
     * quit - Exits the program (EOF will as well)
 
-
 ##### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
 
@@ -65,7 +64,6 @@ Advanced syntax is implemented for the following commands:
 
     * update - Updates existing attributes an object based on class name and UUID
 
-<br>
 <br>
 <center> <h2>Examples</h2> </center>
 <h3>Primary Command Syntax</h3>
