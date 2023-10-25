@@ -1,4 +1,4 @@
-<center> <h1>HBNB - The Console</h1> </center>
+# HBNB - The Console
 This project is an improved version of the [AirBnB project](./AirBnB_clone). It constitutes a comprehensive web application that seamlessly combines database storage, a backend API, and a front-end interface, closely resembling the functionality of Airbnb.
 It implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
