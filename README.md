@@ -7,7 +7,6 @@ It implements a backend interface, or console, to manage program data. Console c
 
 - Background Context
 - Requirements
-- Folder and File Structure
 - Python Scripts
 - Python Unit Tests
 - SQL Scripts
